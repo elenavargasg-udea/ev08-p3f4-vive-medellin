@@ -7,5 +7,4 @@ export const login = () => {
 
 export const logout = () => {
   if (typeof window !== "undefined") localStorage.removeItem("session");
-  window.location.reload();
 };
