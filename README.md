@@ -24,3 +24,4 @@ cd vivemedellin-grupos
 npm i
 npm run dev
 # abre http://localhost:3000
+- HU-03: Unirse a grupo público (WIP)
